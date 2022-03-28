@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guttu Sai Abhishek
-- 👀 I’m interested in Machine learning, Databases, Algorithms and Operating systems 
+- 👀 I’m interested in Machine learning, Operating Systems and Algorithms
 - 🌱 I’m currently pursuing B.tech in Computer Science and Engineering @ IIT Bombay
  
 <!---
